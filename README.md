@@ -6,4 +6,4 @@ I'm a student at California State University Fullerton, Double-Majoring in Compu
 
 In addition, my skills in Graphic Design allow me to bring creative visions to reality. My proficiency in programming is matched by my ability to create captivating visuals, allowing me to develop solutions that are both functional and visually appealing.
 
-![C++ Logo](/iCloud%Drive/Desktop/CS_Logos/C++logo.png)
+![C++ Logo](/Users/emont/Desktop/CS_Logos/C++logo.png)
