@@ -1,6 +1,6 @@
 # Hey, I'm Emmanuel Montoya!
 ## About Me
-<b>I'm a student at California State University Fullerton, Majoring in Computer Science + Minoring in Art (Graphic and Interactive Design)</b>
+<b>I'm a student at California State University Fullerton, Majoring in Computer Science with an interest in Graphic Design</b>
 ## Let's Connect!
 
 [<img width="48" height="48" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg"/>][linkedin]
