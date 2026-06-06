@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/images/IMG_0428.JPG" width="150" height="150" style="border-radius: 50%; object-fit: cover; object-position: center 15%; border: 3px solid #7dd3fc;" alt="Emmanuel Montoya" />
+  <img src="assets/images/IMG_0428_circle.png" width="150" height="150" alt="Emmanuel Montoya" />
 </p>
 
 <p align="center">
