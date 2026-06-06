@@ -1,6 +1,6 @@
 # Hey, I'm Emmanuel Montoya!
 ## About Me
-<b>I'm a student at California State University Fullerton, Majoring in Computer Science with an interest in Graphic Design</b>
+<b>Full-stack developer based in the Southern California. I build web and mobile applications — from React frontends to Python backends — with a background in computer science and graphic/interactive design.</b>
 ## Let's Connect!
 
 [<img width="48" height="48" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg"/>][linkedin]
