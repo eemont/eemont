@@ -20,9 +20,7 @@
 
 <br />
 
----
-
-### 🛠️ Skills
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=60&text=🛠️%20Skills&fontSize=32&fontColor=7dd3fc&fontAlign=50&fontAlignY=65" /></a>
 
 <p align="center">
   <a href="https://cplusplus.com/" title="C++"><img src="https://skillicons.dev/icons?i=cpp" /></a>
@@ -51,12 +49,9 @@
   <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" /></a>
 </p>
 
-
 <br />
 
----
-
-### 📊 Stats
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=60&text=📊%20Stats&fontSize=32&fontColor=7dd3fc&fontAlign=50&fontAlignY=65" /></a>
 
 <p align="center">
   <a href="#">
@@ -75,23 +70,11 @@
 
 <br />
 
----
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=60&text=🤝%20Connect&fontSize=32&fontColor=7dd3fc&fontAlign=50&fontAlignY=65" /></a>
 
-### 🤝 Connect
+<p align="center"><a href="https://www.linkedin.com/in/eemont"><img src="https://skillicons.dev/icons?i=linkedin" /></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="https://discordapp.com/users/266374551451992064"><img src="https://skillicons.dev/icons?i=discord" /></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="mailto:emont.business@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eemont">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://discordapp.com/users/266374551451992064">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:emont.business@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br />
 
 <a href="#">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=120&section=footer" />
