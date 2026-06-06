@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/images/IMG_0428_circle.png" width="150" height="150" alt="Emmanuel Montoya" />
+  <a href="#">
+    <img src="assets/images/IMG_0428_circle.png" width="150" height="150" alt="Emmanuel Montoya" />
+  </a>
 </p>
 
 <p align="center">
