@@ -53,6 +53,7 @@
   <a href="https://www.unrealengine.com/" title="Unreal Engine"><img src="https://skillicons.dev/icons?i=unrealengine" /></a>
   <a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" /></a>
   <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" /></a>
+  <a href="https://www.cloudflare.com/" title="Cloudflare"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
 </p>
 
 <br />
